@@ -22,6 +22,7 @@
  *                                                          *
  *  You have been warned....so be good for goodness sake... *
  *                                                          *
+ * v1.0
  ************************************************************/
 
 var scheduler   =MooBot.loadModule('Scheduler');
